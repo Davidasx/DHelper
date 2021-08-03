@@ -9,7 +9,7 @@
 
 #### Notes
 
-`parse2cf` comes from [here]().(I compiled it myself under Windows)
+`parse2cf` comes from [here](https://github.com/yzy-1/parse2cf).(I compiled it myself under Windows)
 
 On its first run,Windows Firewall will ask whether you allow it or not.
 
@@ -38,7 +38,7 @@ Good luck and high rating!
 
 Idea is from [`caide`](https://github.com/slycelote/caide) and [`cf-tool`](https://github.com/xalanq/cf-tool).
 
-Without [Competitive Companion](https://github.com/jmerle/competitive-companion) and [`parse2cf`](),this project would be totally impossible.
+Without [Competitive Companion](https://github.com/jmerle/competitive-companion) and [`parse2cf`](https://github.com/yzy-1/parse2cf),this project would be totally impossible.
 
 #### Frequently Asked Questions
 
